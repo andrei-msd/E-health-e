@@ -1,0 +1,4 @@
+#Wed Sep 02 05:37:37 NZST 2020
+base.0=C\:\\\!\! Uni 2019\\E-health-e\\E-health-e fall detector\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
